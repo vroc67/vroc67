@@ -19,7 +19,7 @@ Looking at Software, Malware creation, Game creation
 > Webscrapping Projects
 > Malware Creation
 
- - Progress: Studying the Concept
+- Progress: Studying the Concept
 
 ### Game Maker Language (C#)
 
