@@ -14,12 +14,19 @@ Looking at Software, Malware creation, Game creation
 
 - Progress: Studying the Concept
 
+Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
+<!-- markdownlint-disable MD033>
+<progress value= "1" max="100"> 1% </progress>
+<!-- markdownlint-enable MD033 -->
+
 ### Python
 
 > Webscrapping Projects
 > Malware Creation
 
 - Progress: Studying the Concept
+
+Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
 
 ### Game Maker Language (C#)
 
