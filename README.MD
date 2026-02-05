@@ -10,7 +10,7 @@ Looking at Software, Malware creation, Game creation
 ### C++
 
 > Game Engine:
-> Learning How to Make my own Game Engine
+>> Learning How to Make my own Game Engine
 
 - Progress: Studying the Concept
 
@@ -22,6 +22,7 @@ Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
 ### Python
 
 > Webscrapping Projects
+
 > Malware Creation
 
 - Progress: Studying the Concept
