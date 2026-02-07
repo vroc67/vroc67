@@ -1,9 +1,3 @@
-<table width = "100%>
-<tr>
-<h1> Vroc 67 </span></h1>
-</tr>
-</table>
-
 
 # VROC67
 
