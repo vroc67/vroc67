@@ -2,9 +2,9 @@
 # VROC67
 
 ## About Me
-![Alt Text](https://i.gifer.com/Z6W8.gif)
+
 ![Alt Text](https://i.gifer.com/52O8.gif)
-![Alt Text](https://i.gifer.com/Z6W8.gif)
+
 
 I am a student currently studying a B.S in Computer Science
 Looking at Software, Game creation, I love to draw so most of my coding will go into drawing softwares and solutions.
