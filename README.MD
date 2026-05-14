@@ -4,6 +4,7 @@
 ## About Me
 
 ![Alt-Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pmNHllaGhkaGYyc25waW5nODFibWowM253NHE4NnkxYmxob2J3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/jwaOyMu8Z3X9LOjkpC/giphy.gif)
+![Alt-Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhkc254bHVuanRxOWtoODIwNzNucmY2dHdjY3E3czE4NzI1aHNuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/janmwTvYzVgfyTqWbb/giphy.gif)
 
 
 
