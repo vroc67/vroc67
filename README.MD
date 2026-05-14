@@ -5,9 +5,6 @@
 
 ![Alt-Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pmNHllaGhkaGYyc25waW5nODFibWowM253NHE4NnkxYmxob2J3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/jwaOyMu8Z3X9LOjkpC/giphy.gif)
 
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9hZ29mb2phejB6eHBranZ2enZ5bGdjZTEybDlkdGN3MmV4NDU5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.gif" width="1000" height="250"/>
-
 I am a student currently studying a B.S in Computer Science
 Looking at Software, Game creation, I love to draw so most of my coding will go into drawing softwares and solutions.
 
