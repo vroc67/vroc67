@@ -4,7 +4,7 @@
 ## Description
 
 I am a student currently studying a B.S in Computer Science
-Looking at Software, Malware creation, Game creation
+Looking at Software, Game creation
 
 ## Languages
 
