@@ -2,8 +2,9 @@
 # VROC67
 
 ## About Me
+<p style="text-align:center;">
+![Alt Text](https://i.gifer.com/52O8.gif)</p>
 
-![Alt Text](https://i.gifer.com/52O8.gif)
 
 
 I am a student currently studying a B.S in Computer Science
