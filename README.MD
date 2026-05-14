@@ -35,4 +35,4 @@ Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
 
 
 ![Alt-Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pxemI3NHpkcGlhYWNmM2VlN3VuaHM4YW44YnJtaTlzeXBqc2p5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sA1lSYEzcXiWA/giphy.gif)
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUxcDVoYWJoYTRob3BjemtsM3l5OHVyenkzdjJicnAzcnE4MXRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKaohB56quHgVg369U/giphy.gif" width="250" height="250"/>
+![Alt-Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZlc2RwcDl5bXMzYXJwbXI4OWQ5MHdwNHU5d2tpNWVidnhreHlrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yIQ5glQeheYE0/giphy.gif)
