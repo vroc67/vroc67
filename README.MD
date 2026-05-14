@@ -21,8 +21,6 @@ Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
 
 > Webscrapping Projects
 
-> Malware Creation
-
 - Progress: Studying the Concept
 
 Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
