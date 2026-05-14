@@ -2,8 +2,7 @@
 # VROC67
 
 ## About Me
-<p style="text-align:center;">
-![Alt Text](https://i.gifer.com/52O8.gif)</p>
+<p style="text-align: center;"><img src="https://i.gifer.com/52O8.gif"></p>
 
 
 
