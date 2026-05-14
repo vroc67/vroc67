@@ -2,8 +2,7 @@
 # VROC67
 
 ## About Me
-<p style="text-align: center;"><img src="https://i.gifer.com/52O8.gif"></p>
-
+![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ4cjgxeWQ4M3IzaXl6amNndDNkNzZwOWx1eXo4MXd2YXB6b3h4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/njON3jEmTYHEfRbfsk/giphy.gif)
 
 
 I am a student currently studying a B.S in Computer Science
