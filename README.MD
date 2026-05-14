@@ -12,26 +12,24 @@ I am a student currently studying a B.S in Computer Science
 Looking at Software, Game creation, I love to draw so most of my coding will go into drawing softwares and solutions.
 
 
-## Languages
+## Projects
 
-### C++
 
-> Game Engine:
+
+### Game Engine:
 >> Learning How to Make my own Game Engine
 
 - Progress: Studying the Concept
 
 Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
-
-### Python
-
-> Webscrapping Projects
+ 
+### Webscrapping Projects With Python
 
 - Progress: Studying the Concept
 
 Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
 
-### Game Maker Language (C#)
+### Game Maker Language
 
 > Space Rock Game
 
