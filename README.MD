@@ -3,7 +3,7 @@
 
 ## About Me
 ![Alt Text](https://i.gifer.com/Z6W8.gif)
-![Alt Text](https://i.gifer.com/Z6W8.gif)
+![Alt Text](https://i.gifer.com/52O8.gif)
 ![Alt Text](https://i.gifer.com/Z6W8.gif)
 
 I am a student currently studying a B.S in Computer Science
