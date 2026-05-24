@@ -18,14 +18,7 @@ Looking at Software, Game creation, I love to draw so most of my coding will go 
 > Learning How to Make my own Game Engine
 
 - Progress: Studying the Concept
-
-Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
  
-### Webscrapping Projects With Python
-
-- Progress: Studying the Concept
-
-Progress: ▓░░░░░░░░░░░░░░░░░░ 1%
 
 ### Game Maker Language
 
