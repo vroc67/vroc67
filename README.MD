@@ -8,7 +8,6 @@
 I am a student currently studying a B.S in Computer Science
 Looking at Software, Game creation, I love to draw so most of my coding will go into drawing softwares and solutions.
 
-## Projects
 
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
@@ -29,6 +28,8 @@ Looking at Software, Game creation, I love to draw so most of my coding will go 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+## Projects
 
 ### Game Engine:
 > Learning How to Make my own Game Engine
