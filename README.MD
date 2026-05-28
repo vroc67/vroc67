@@ -53,6 +53,12 @@ Looking at Software, Game creation, A little bit of Cybersecurity I love to draw
 
 ## Projects
 
+### Drawing Software
+
+> Studying the Concepts
+
+- Progress: Repo Made
+
 ### Game Engine:
 > Learning How to Make my own Game Engine
 
@@ -64,5 +70,7 @@ Looking at Software, Game creation, A little bit of Cybersecurity I love to draw
 > Space Rock Game
 
 - Progress: Completed but needs improvement
+
+
 
 
