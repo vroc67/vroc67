@@ -10,6 +10,7 @@ Looking at Software, Game creation, I love to draw so most of my coding will go 
 
 ## Projects
 
+<div id="header" align="center">
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![The Odin Project](https://img.shields.io/badge/the_odin_project-%23A9792B.svg?style=for-the-badge&logo=theodinproject&logoColor=white)
@@ -28,7 +29,8 @@ Looking at Software, Game creation, I love to draw so most of my coding will go 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)'
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 
 ### Game Engine:
 > Learning How to Make my own Game Engine
