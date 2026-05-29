@@ -4,7 +4,8 @@
 ## About Me
 
 
-![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG44ZG5wNHFmYXhsazZ0bnluaW81ejloMHdyc3Y3bXZzbDRoNGs4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c4PM2Dn8nhbMc/giphy.gif)
+![Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG44ZG5wNHFmYXhsazZ0bnluaW81ejloMHdyc3Y3bXZzbDRoNGs4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/c4PM2Dn8nhbMc/giphy.gif) </br>
+
 I am a student currently studying a B.S in Computer Science
 Looking at Software, Game creation, A little bit of Cybersecurity I love to draw so most of my coding will go into drawing softwares and solutions.
 
