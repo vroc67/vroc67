@@ -9,7 +9,7 @@
 ![Image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWRycHlhdjM5djRyZ2wycHQ2cG1vbWU2emQ1dWIyNHRzNGtiejlleSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/12sIqAzCGEDLSE/giphy.gif) </br>
 
 I am a student currently studying a B.S in Computer Science
-Looking at Software, Game creation, A little bit of Cybersecurity I love to draw so most of my coding will go into drawing softwares and solutions.
+Looking at Software, Game creation, A little bit of Malware Creation for fun, I love to draw so most of my coding will go into drawing softwares and solutions.
 
 
 ## Languages
